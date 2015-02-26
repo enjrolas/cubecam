@@ -1,0 +1,1 @@
+/Users/japhy/Dropbox/cubecam/editor/static/addon/tern/worker.js

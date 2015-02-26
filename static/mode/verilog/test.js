@@ -1,0 +1,1 @@
+/Users/japhy/Dropbox/cubecam/editor/static/mode/verilog/test.js

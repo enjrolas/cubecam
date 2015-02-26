@@ -1,0 +1,1 @@
+/Users/japhy/Dropbox/cubecam/editor/static/mode/sql/sql.js

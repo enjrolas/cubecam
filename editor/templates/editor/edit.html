@@ -1,0 +1,103 @@
+{% load staticfiles %}
+<!doctype html>
+
+<title>CodeMirror: Theme Demo</title>
+<meta charset="utf-8"/>
+
+<!-- JQUERY !-->
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css">
+
+  <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="http://code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
+
+<!-- SPARK !-->
+<script type="text/javascript" src="http://cdn.jsdelivr.net/sparkjs/0.2.6/spark.min.js"></script>
+<script src="{% static 'js/edit.js' %}"></script>
+
+<!-- CODE MIRROR !-->
+<link rel="stylesheet" href="{% static 'doc/docs.css' %}">
+<link rel="stylesheet" href="{% static 'lib/codemirror.css' %}">
+<link rel="stylesheet" href="{% static 'theme/tomorrow-night-eighties.css' %}">
+<script src="{% static 'lib/codemirror.js' %}"></script>
+<script src="{% static 'mode/javascript/javascript.js' %}"></script>
+<script src="{% static 'addon/selection/active-line.js' %}"></script>
+<script src="{% static 'addon/edit/matchbrackets.js' %}"></script>
+<style type="text/css">
+      .CodeMirror {border: 1px solid black; font-size:13px}
+      #code{
+      width: 600px;
+      height: 800px;
+      }
+    </style>
+<article>
+<h2>Cube Cam</h2>
+<button id="compile" onclick="compile();">Compile</button>
+<button id="flash">Flash</button>
+<form><textarea id="code" name="code">
+bool lastRead[16];
+unsigned char lightValues[16];
+IPAddress computerIP (192,168,254,153);
+UDP udp;
+void setup()
+{
+    udp.begin(2222);
+}
+
+void loop()
+{
+  unsigned int j;
+
+  // Apply reverse voltage, charge up the pin and led capacitance
+  for(int i=0;i<16;i++)
+  {
+      int j=i<8?i:i+2;
+      pinMode(j ,OUTPUT);
+      digitalWrite(j,HIGH);
+      lastRead[j]=true;
+  }
+
+
+  // now isolate the diode
+  for(int i=0;i<16;i++)
+  {
+      int j=i<8?i:i+2;
+      pinMode(j ,INPUT);
+      digitalWrite(j,LOW);
+  }
+
+  // Count how long it takes the diode to bleed back down to a logic zero
+  for ( j = 0; j < 256; j++) {
+      for(int i=0;i<16;i++)
+      int k=i<8?i:i+2;
+        if((digitalRead(k)==0)&&(lastRead[i]))
+        {
+            lastRead[i]=false;
+            lightValues[i]=j;
+        }
+  }
+
+    udp.beginPacket(computerIP, 2222);
+    udp.write(lightValues,16);
+    udp.endPacket();
+}
+
+</textarea></form>
+<div id="compiler-messages"></div>
+<script>
+  var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+    lineNumbers: true,
+    styleActiveLine: true,
+    matchBrackets: true
+  });
+    editor.setOption("theme", "tomorrow-night-eighties");
+
+  var choice = document.location.search &&
+               decodeURIComponent(document.location.search.slice(1));
+  if (choice) {
+    input.value = choice;
+    editor.setOption("theme", choice);
+  }
+</script>
+  </article>
+</body>
+</html>

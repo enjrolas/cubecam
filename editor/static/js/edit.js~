@@ -1,0 +1,25 @@
+var compiled=false;
+
+function compile(){
+var callback = function(err, data) {
+    if (err) {
+	console.log('An error occurred while compiling the code:', err);
+    } else {
+	console.log('Code compilation started successfully:', data);
+    }
+};
+
+spark.compileCode(['./path/to/file1', './path/to/file2'], callback);
+}
+
+function flash(){
+    spark.flashCore('CORE_ID',
+		    ['./path/to/your/file1', './path/to/your/file2'],
+		    function(err, data) {
+			if (err) {
+			    console.log('An error occurred while flashing the core:', err);
+			} else {
+			    console.log('Core flashing started successfully:', data);
+			}
+		    });
+}
