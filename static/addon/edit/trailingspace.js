@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/edit/trailingspace.js
+/home/glass/cubecam/editor/static/addon/edit/trailingspace.js

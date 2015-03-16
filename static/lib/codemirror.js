@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/lib/codemirror.js
+/home/glass/cubecam/editor/static/lib/codemirror.js

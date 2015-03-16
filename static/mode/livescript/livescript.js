@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/livescript/livescript.js
+/home/glass/cubecam/editor/static/mode/livescript/livescript.js

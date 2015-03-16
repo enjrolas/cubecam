@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/htmlmixed/htmlmixed.js
+/home/glass/cubecam/editor/static/mode/htmlmixed/htmlmixed.js

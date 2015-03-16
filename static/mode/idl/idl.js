@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/idl/idl.js
+/home/glass/cubecam/editor/static/mode/idl/idl.js

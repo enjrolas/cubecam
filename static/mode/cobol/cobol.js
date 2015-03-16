@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/cobol/cobol.js
+/home/glass/cubecam/editor/static/mode/cobol/cobol.js

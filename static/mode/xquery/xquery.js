@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/xquery/xquery.js
+/home/glass/cubecam/editor/static/mode/xquery/xquery.js

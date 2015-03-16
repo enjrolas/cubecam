@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/jade/jade.js
+/home/glass/cubecam/editor/static/mode/jade/jade.js

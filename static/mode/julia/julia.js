@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/julia/julia.js
+/home/glass/cubecam/editor/static/mode/julia/julia.js

@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/README.md
+/home/glass/cubecam/editor/static/README.md

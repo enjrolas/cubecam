@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/search/match-highlighter.js
+/home/glass/cubecam/editor/static/addon/search/match-highlighter.js

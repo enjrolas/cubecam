@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/search/search.js
+/home/glass/cubecam/editor/static/addon/search/search.js

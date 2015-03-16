@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/rst/rst.js
+/home/glass/cubecam/editor/static/mode/rst/rst.js

@@ -1,0 +1,15 @@
+<script>
+    var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+	    lineNumbers: true,
+	    styleActiveLine: true,
+	    matchBrackets: true
+	});
+editor.setOption("theme", "tomorrow-night-eighties");
+
+  var choice = document.location.search &&
+      decodeURIComponent(document.location.search.slice(1));
+if (choice) {
+    input.value = choice;
+    editor.setOption("theme", choice);
+}
+</script>

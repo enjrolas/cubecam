@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/clike/clike.js
+/home/glass/cubecam/editor/static/mode/clike/clike.js

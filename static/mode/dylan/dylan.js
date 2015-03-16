@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/dylan/dylan.js
+/home/glass/cubecam/editor/static/mode/dylan/dylan.js

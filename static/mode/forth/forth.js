@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/forth/forth.js
+/home/glass/cubecam/editor/static/mode/forth/forth.js

@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/jinja2/jinja2.js
+/home/glass/cubecam/editor/static/mode/jinja2/jinja2.js

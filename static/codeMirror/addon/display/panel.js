@@ -1,0 +1,1 @@
+/home/glass/cubecam/javascript/static/codeMirror/addon/display/panel.js

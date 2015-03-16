@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/dtd/dtd.js
+/home/glass/cubecam/editor/static/mode/dtd/dtd.js

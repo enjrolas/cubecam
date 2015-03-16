@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/vb/vb.js
+/home/glass/cubecam/editor/static/mode/vb/vb.js

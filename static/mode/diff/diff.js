@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/diff/diff.js
+/home/glass/cubecam/editor/static/mode/diff/diff.js

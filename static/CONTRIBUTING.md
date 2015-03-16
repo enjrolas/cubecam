@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/CONTRIBUTING.md
+/home/glass/cubecam/editor/static/CONTRIBUTING.md

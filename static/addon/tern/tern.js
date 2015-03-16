@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/tern/tern.js
+/home/glass/cubecam/editor/static/addon/tern/tern.js

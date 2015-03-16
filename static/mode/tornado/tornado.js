@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/tornado/tornado.js
+/home/glass/cubecam/editor/static/mode/tornado/tornado.js

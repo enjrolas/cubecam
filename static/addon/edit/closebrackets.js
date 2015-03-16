@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/edit/closebrackets.js
+/home/glass/cubecam/editor/static/addon/edit/closebrackets.js

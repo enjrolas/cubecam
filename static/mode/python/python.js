@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/python/python.js
+/home/glass/cubecam/editor/static/mode/python/python.js

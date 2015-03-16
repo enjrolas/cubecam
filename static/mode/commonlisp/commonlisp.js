@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/commonlisp/commonlisp.js
+/home/glass/cubecam/editor/static/mode/commonlisp/commonlisp.js

@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/keymap/sublime.js
+/home/glass/cubecam/editor/static/keymap/sublime.js

@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/display/fullscreen.js
+/home/glass/cubecam/editor/static/addon/display/fullscreen.js

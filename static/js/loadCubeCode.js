@@ -1,0 +1,1 @@
+/home/glass/cubecam/javascript/static/js/loadCubeCode.js

@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/comment/continuecomment.js
+/home/glass/cubecam/editor/static/addon/comment/continuecomment.js

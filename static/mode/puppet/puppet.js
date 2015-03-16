@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/puppet/puppet.js
+/home/glass/cubecam/editor/static/mode/puppet/puppet.js

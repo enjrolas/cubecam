@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/clojure/clojure.js
+/home/glass/cubecam/editor/static/mode/clojure/clojure.js

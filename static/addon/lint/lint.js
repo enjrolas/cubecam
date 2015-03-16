@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/lint/lint.js
+/home/glass/cubecam/editor/static/addon/lint/lint.js

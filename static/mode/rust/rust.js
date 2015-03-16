@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/rust/rust.js
+/home/glass/cubecam/editor/static/mode/rust/rust.js

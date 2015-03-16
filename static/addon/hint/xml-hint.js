@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/hint/xml-hint.js
+/home/glass/cubecam/editor/static/addon/hint/xml-hint.js

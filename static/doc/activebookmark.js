@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/doc/activebookmark.js
+/home/glass/cubecam/editor/static/doc/activebookmark.js

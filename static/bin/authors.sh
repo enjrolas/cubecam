@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/bin/authors.sh
+/home/glass/cubecam/editor/static/bin/authors.sh

@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/verilog/verilog.js
+/home/glass/cubecam/editor/static/mode/verilog/verilog.js

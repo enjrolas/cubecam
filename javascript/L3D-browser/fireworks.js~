@@ -1,0 +1,45 @@
+L3D cube;
+color col;
+float radius;
+float radInc;
+float maxRadius;
+PVector center;
+
+void setup()
+{
+    size(800, 800, P3D);
+    cube=new L3D();
+    newFirework();
+    smooth();
+}
+
+void draw()
+{
+    background(0);
+    translate(width/2, height/2);
+    rotateY(mouseX/50);
+    rotateX(mouseY/50);
+    updateFirework();
+    cube.draw();
+}
+
+void updateFirework()
+{
+    radius+=radInc;
+    if (radius>maxRadius)
+	newFirework();
+    else
+	{
+	    cube.background(0);
+	    cube.sphere(center, radius, col);
+	}
+}
+
+void newFirework()
+{
+    col=color(random(255), random(255), random(255));
+    center=new PVector(random(cube.side), random(cube.side), random(cube.side));
+    maxRadius=3+random(cube.side);
+    radInc=random(0.05, 0.15);
+    radius=0;
+}

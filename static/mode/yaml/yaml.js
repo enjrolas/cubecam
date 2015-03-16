@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/yaml/yaml.js
+/home/glass/cubecam/editor/static/mode/yaml/yaml.js

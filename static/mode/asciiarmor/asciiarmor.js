@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/asciiarmor/asciiarmor.js
+/home/glass/cubecam/editor/static/mode/asciiarmor/asciiarmor.js

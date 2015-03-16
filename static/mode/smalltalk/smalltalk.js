@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/smalltalk/smalltalk.js
+/home/glass/cubecam/editor/static/mode/smalltalk/smalltalk.js

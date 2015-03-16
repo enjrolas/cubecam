@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/properties/properties.js
+/home/glass/cubecam/editor/static/mode/properties/properties.js

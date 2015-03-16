@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/keymap/vim.js
+/home/glass/cubecam/editor/static/keymap/vim.js

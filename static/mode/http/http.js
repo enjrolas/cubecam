@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/http/http.js
+/home/glass/cubecam/editor/static/mode/http/http.js

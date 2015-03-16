@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/fortran/fortran.js
+/home/glass/cubecam/editor/static/mode/fortran/fortran.js

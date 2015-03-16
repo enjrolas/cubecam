@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/velocity/velocity.js
+/home/glass/cubecam/editor/static/mode/velocity/velocity.js

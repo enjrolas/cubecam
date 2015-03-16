@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/django/django.js
+/home/glass/cubecam/editor/static/mode/django/django.js

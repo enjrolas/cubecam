@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/tiddlywiki/tiddlywiki.js
+/home/glass/cubecam/editor/static/mode/tiddlywiki/tiddlywiki.js

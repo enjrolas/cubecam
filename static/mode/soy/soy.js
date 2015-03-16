@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/soy/soy.js
+/home/glass/cubecam/editor/static/mode/soy/soy.js

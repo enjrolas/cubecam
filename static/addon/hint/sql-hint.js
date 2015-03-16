@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/hint/sql-hint.js
+/home/glass/cubecam/editor/static/addon/hint/sql-hint.js

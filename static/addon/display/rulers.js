@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/display/rulers.js
+/home/glass/cubecam/editor/static/addon/display/rulers.js

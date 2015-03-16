@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/stex/stex.js
+/home/glass/cubecam/editor/static/mode/stex/stex.js

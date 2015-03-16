@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/pig/pig.js
+/home/glass/cubecam/editor/static/mode/pig/pig.js

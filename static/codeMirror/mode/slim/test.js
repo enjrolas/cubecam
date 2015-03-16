@@ -1,0 +1,1 @@
+/home/glass/cubecam/javascript/static/codeMirror/mode/slim/test.js

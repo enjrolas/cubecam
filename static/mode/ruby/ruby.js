@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/ruby/ruby.js
+/home/glass/cubecam/editor/static/mode/ruby/ruby.js

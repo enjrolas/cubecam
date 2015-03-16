@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/sparql/sparql.js
+/home/glass/cubecam/editor/static/mode/sparql/sparql.js

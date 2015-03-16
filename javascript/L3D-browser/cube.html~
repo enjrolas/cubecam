@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Processing Helper</title>
+    <style>
+      canvas { width: 600px; height: 600px; border: 1px solid }
+body {
+    background-color: #777777;
+}
+} 
+    </style>
+  </head>
+  <body onload="document.getElementById('code').focus()">
+    <textarea rows="40" cols="80" id="code"></textarea>
+    <br>  <img onclick="runSketch();" src="run.png" width="32px">
+
+    <div id="sketch-container">
+      <canvas id="sketch"></canvas>
+    </div>
+
+    <h2>Output</h2>
+    <textarea rows="20" cols="80" id="output" readonly="readonly">None.</textarea>
+
+    <script src="../../processing.min.js"></script>
+    <script src="jsbeautify.js"></script>
+    <script src="processing-helper.js"></script>
+  </body>
+</html>

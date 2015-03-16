@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/mllike/mllike.js
+/home/glass/cubecam/editor/static/mode/mllike/mllike.js

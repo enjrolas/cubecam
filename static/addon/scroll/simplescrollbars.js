@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/addon/scroll/simplescrollbars.js
+/home/glass/cubecam/editor/static/addon/scroll/simplescrollbars.js

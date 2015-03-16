@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/apl/apl.js
+/home/glass/cubecam/editor/static/mode/apl/apl.js

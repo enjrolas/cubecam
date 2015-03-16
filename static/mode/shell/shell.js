@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/shell/shell.js
+/home/glass/cubecam/editor/static/mode/shell/shell.js

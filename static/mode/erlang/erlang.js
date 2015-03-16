@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/erlang/erlang.js
+/home/glass/cubecam/editor/static/mode/erlang/erlang.js

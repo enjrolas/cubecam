@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/stylus/stylus.js
+/home/glass/cubecam/editor/static/mode/stylus/stylus.js

@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/smarty/smarty.js
+/home/glass/cubecam/editor/static/mode/smarty/smarty.js

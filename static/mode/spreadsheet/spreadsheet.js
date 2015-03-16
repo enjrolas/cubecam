@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/spreadsheet/spreadsheet.js
+/home/glass/cubecam/editor/static/mode/spreadsheet/spreadsheet.js

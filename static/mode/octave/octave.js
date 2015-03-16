@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/octave/octave.js
+/home/glass/cubecam/editor/static/mode/octave/octave.js

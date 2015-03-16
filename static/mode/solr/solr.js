@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/solr/solr.js
+/home/glass/cubecam/editor/static/mode/solr/solr.js

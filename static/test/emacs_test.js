@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/test/emacs_test.js
+/home/glass/cubecam/editor/static/test/emacs_test.js

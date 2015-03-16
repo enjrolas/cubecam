@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/rpm/rpm.js
+/home/glass/cubecam/editor/static/mode/rpm/rpm.js

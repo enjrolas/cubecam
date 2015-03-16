@@ -17,7 +17,7 @@ function compile(){
 		       console.log('Code compilation started successfully:', data);
 		   }
 	       };
-	       spark.compileCode(["/media/tempfile"], callback);
+	       spark.compileCode(["http://cubecam-media.l3dcube.com/tempfile.ino"], callback);
 
 	   });
 

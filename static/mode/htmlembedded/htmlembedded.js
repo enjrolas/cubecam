@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/htmlembedded/htmlembedded.js
+/home/glass/cubecam/editor/static/mode/htmlembedded/htmlembedded.js

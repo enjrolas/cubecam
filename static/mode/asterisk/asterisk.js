@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/asterisk/asterisk.js
+/home/glass/cubecam/editor/static/mode/asterisk/asterisk.js

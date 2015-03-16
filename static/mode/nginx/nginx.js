@@ -1,1 +1,1 @@
-/Users/japhy/Dropbox/cubecam/editor/static/mode/nginx/nginx.js
+/home/glass/cubecam/editor/static/mode/nginx/nginx.js
