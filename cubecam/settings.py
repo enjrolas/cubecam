@@ -38,13 +38,9 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'corsheaders',
     'editor',
-    'compressor',
     'javascript',
 )
 
-COMPRESS_JS_FILTERS = [
-    'compressor.filters.template.TemplateFilter',
-]
 
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -90,12 +86,6 @@ USE_I18N = True
 USE_L10N = True
 
 USE_TZ = True
-
-STATICFILES_FINDERS = (
-    'django.contrib.staticfiles.finders.FileSystemFinder',
-    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
-     'compressor.finders.CompressorFinder',
-)
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
